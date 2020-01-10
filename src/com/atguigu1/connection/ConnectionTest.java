@@ -1,8 +1,7 @@
-package com.atguigu.connection;
+package com.atguigu1.connection;
 
 import org.junit.Test;
 
-import java.io.IOException;
 import java.io.InputStream;
 import java.sql.Connection;
 import java.sql.Driver;
