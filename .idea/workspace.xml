@@ -2,28 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfeab37c-7aa0-4f1b-ab9a-e4b8ffc7fce4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document/查询过程.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/jdbc_1/META-INF/jdbc_1.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/jdbc_1/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/playgirl.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu2/statement/crud/PreparedStatementTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu2/statement/crud/StatementTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu2/statement/crud/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu3/bean/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu3/bean/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu3/preparestatement/crud/CustomerForQuery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu3/preparestatement/crud/OrderForQuery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu3/preparestatement/crud/PreparedStatementQueryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu3/preparestatement/crud/PreparedStatementTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu3/util/JDBCUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu4/exer/Exer1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu4/exer/Exer2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu4/exer/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/com/atguigu5/blob/BlobTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/document/jdbc" beforeDir="false" afterPath="$PROJECT_DIR$/document/jdbc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/atguigu/connection/ConnectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu1/connection/ConnectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_37_bin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/girl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-5.1.37-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu5/blob/InsertTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_7_bin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc_1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mysql-connector-java-5.1.7-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jdbc_1/com/com/atguigu5/blob/BlobTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jdbc_1/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jdbc_1/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/com/atguigu5/blob/BlobTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu5/blob/BlobTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/jdbc.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,63 +54,21 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/document" />
       <recent name="$PROJECT_DIR$/src/com/atguigu/statement/crud" />
-      <recent name="$PROJECT_DIR$/lib" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BlobTest.testQuery">
-    <configuration name="Exer1Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu4.exer.Exer1Test" />
-      <module name="jdbc_1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atguigu4.exer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exer2Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu4.exer.Exer2Test" />
-      <module name="jdbc_1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atguigu4.exer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BlobTest.blobTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="jdbc_1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.com.atguigu5.blob.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.com.atguigu5.blob" />
-      <option name="MAIN_CLASS_NAME" value="com.com.atguigu5.blob.BlobTest" />
-      <option name="METHOD_NAME" value="blobTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.InsertTest.testInsert3">
     <configuration name="BlobTest.testInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="jdbc_1" />
       <extension name="coverage">
@@ -153,13 +101,61 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="InsertTest.testInsert1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jdbc_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu5.blob.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu5.blob" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu5.blob.InsertTest" />
+      <option name="METHOD_NAME" value="testInsert1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertTest.testInsert2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jdbc_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu5.blob.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu5.blob" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu5.blob.InsertTest" />
+      <option name="METHOD_NAME" value="testInsert2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertTest.testInsert3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jdbc_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu5.blob.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu5.blob" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu5.blob.InsertTest" />
+      <option name="METHOD_NAME" value="testInsert3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.BlobTest.testQuery" />
+        <item itemvalue="JUnit.InsertTest.testInsert3" />
+        <item itemvalue="JUnit.InsertTest.testInsert2" />
+        <item itemvalue="JUnit.InsertTest.testInsert1" />
         <item itemvalue="JUnit.BlobTest.testInsert" />
-        <item itemvalue="JUnit.BlobTest.blobTest" />
-        <item itemvalue="Application.Exer2Test" />
-        <item itemvalue="Application.Exer1Test" />
+        <item itemvalue="JUnit.BlobTest.testQuery" />
       </list>
     </recent_temporary>
   </component>
@@ -197,12 +193,25 @@
       <workItem from="1578647317427" duration="4000" />
       <workItem from="1578647340393" duration="84000" />
       <workItem from="1578647446305" duration="235000" />
-      <workItem from="1578648168360" duration="23589000" />
+      <workItem from="1578648168360" duration="24001000" />
+      <workItem from="1578711575163" duration="2420000" />
     </task>
+    <task id="LOCAL-00001" summary="jdbc excise">
+      <created>1578688071685</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578688071685</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="jdbc excise" />
+    <option name="LAST_COMMIT_MESSAGE" value="jdbc excise" />
   </component>
   <component name="WindowStateProjectService">
     <state x="454" y="240" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578640775878">
@@ -214,6 +223,10 @@
     </state>
     <state x="533" y="154" key="#com.intellij.ide.util.MemberChooser/0.23.1440.816@0.23.1440.816" timestamp="1578667080256" />
     <state x="533" y="155" key="#com.intellij.ide.util.MemberChooser/0.23.1440.822@0.23.1440.822" timestamp="1578682497473" />
+    <state x="271" y="35" key="CommitChangelistDialog2" timestamp="1578688071424">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="271" y="35" key="CommitChangelistDialog2/0.23.1440.822@0.23.1440.822" timestamp="1578688071424" />
     <state x="584" y="335" key="Github.ShareDialog" timestamp="1578648550373">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
@@ -222,59 +235,67 @@
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="532" y="145" key="Github.UntrackedFilesDialog/0.23.1440.821@0.23.1440.821" timestamp="1578648585248" />
-    <state width="1398" height="188" key="GridCell.Tab.0.bottom" timestamp="1578687864300">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state width="1398" height="188" key="GridCell.Tab.0.bottom" timestamp="1578714898968">
+      <screen x="0" y="23" width="1440" height="814" />
     </state>
+    <state width="1398" height="188" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1578714898968" />
     <state width="1398" height="136" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1578668561245" />
     <state width="1398" height="209" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1578657069454" />
-    <state width="1398" height="188" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1578687864300" />
-    <state width="1398" height="188" key="GridCell.Tab.0.center" timestamp="1578687864300">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state width="1398" height="260" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1578688275640" />
+    <state width="1398" height="188" key="GridCell.Tab.0.center" timestamp="1578714898967">
+      <screen x="0" y="23" width="1440" height="814" />
     </state>
+    <state width="1398" height="188" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1578714898967" />
     <state width="1398" height="136" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1578668561244" />
     <state width="1398" height="209" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1578657069453" />
-    <state width="1398" height="188" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1578687864300" />
-    <state width="1398" height="188" key="GridCell.Tab.0.left" timestamp="1578687864299">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state width="1398" height="260" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1578688275639" />
+    <state width="1398" height="188" key="GridCell.Tab.0.left" timestamp="1578714898967">
+      <screen x="0" y="23" width="1440" height="814" />
     </state>
+    <state width="1398" height="188" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1578714898967" />
     <state width="1398" height="136" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1578668561244" />
     <state width="1398" height="209" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1578657069453" />
-    <state width="1398" height="188" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1578687864299" />
-    <state width="1398" height="188" key="GridCell.Tab.0.right" timestamp="1578687864300">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state width="1398" height="260" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1578688275639" />
+    <state width="1398" height="188" key="GridCell.Tab.0.right" timestamp="1578714898968">
+      <screen x="0" y="23" width="1440" height="814" />
     </state>
+    <state width="1398" height="188" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1578714898968" />
     <state width="1398" height="136" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1578668561245" />
     <state width="1398" height="209" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1578657069454" />
-    <state width="1398" height="188" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1578687864300" />
-    <state width="1398" height="260" key="GridCell.Tab.1.bottom" timestamp="1578673197701">
+    <state width="1398" height="260" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1578688275640" />
+    <state width="1398" height="260" key="GridCell.Tab.1.bottom" timestamp="1578688275641">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state width="1398" height="260" key="GridCell.Tab.1.bottom/0.23.1440.821@0.23.1440.821" timestamp="1578650731807" />
-    <state width="1398" height="260" key="GridCell.Tab.1.bottom/0.23.1440.822@0.23.1440.822" timestamp="1578673197701" />
-    <state width="1398" height="260" key="GridCell.Tab.1.center" timestamp="1578673197701">
+    <state width="1398" height="260" key="GridCell.Tab.1.bottom/0.23.1440.822@0.23.1440.822" timestamp="1578688275641" />
+    <state width="1398" height="260" key="GridCell.Tab.1.center" timestamp="1578688275640">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state width="1398" height="260" key="GridCell.Tab.1.center/0.23.1440.821@0.23.1440.821" timestamp="1578650731806" />
-    <state width="1398" height="260" key="GridCell.Tab.1.center/0.23.1440.822@0.23.1440.822" timestamp="1578673197701" />
-    <state width="1398" height="260" key="GridCell.Tab.1.left" timestamp="1578673197701">
+    <state width="1398" height="260" key="GridCell.Tab.1.center/0.23.1440.822@0.23.1440.822" timestamp="1578688275640" />
+    <state width="1398" height="260" key="GridCell.Tab.1.left" timestamp="1578688275640">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state width="1398" height="260" key="GridCell.Tab.1.left/0.23.1440.821@0.23.1440.821" timestamp="1578650731806" />
-    <state width="1398" height="260" key="GridCell.Tab.1.left/0.23.1440.822@0.23.1440.822" timestamp="1578673197701" />
-    <state width="1398" height="260" key="GridCell.Tab.1.right" timestamp="1578673197701">
+    <state width="1398" height="260" key="GridCell.Tab.1.left/0.23.1440.822@0.23.1440.822" timestamp="1578688275640" />
+    <state width="1398" height="260" key="GridCell.Tab.1.right" timestamp="1578688275640">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state width="1398" height="260" key="GridCell.Tab.1.right/0.23.1440.821@0.23.1440.821" timestamp="1578650731807" />
-    <state width="1398" height="260" key="GridCell.Tab.1.right/0.23.1440.822@0.23.1440.822" timestamp="1578673197701" />
-    <state x="208" y="23" width="1024" height="821" key="SettingsEditor" timestamp="1578640720719">
+    <state width="1398" height="260" key="GridCell.Tab.1.right/0.23.1440.822@0.23.1440.822" timestamp="1578688275640" />
+    <state x="208" y="23" width="1024" height="814" key="SettingsEditor" timestamp="1578714153263">
       <screen x="0" y="23" width="1440" height="814" />
     </state>
-    <state x="208" y="23" key="SettingsEditor/0.23.1440.814@0.23.1440.814" timestamp="1578640720719" />
+    <state x="208" y="23" width="1024" height="814" key="SettingsEditor/0.23.1440.814@0.23.1440.814" timestamp="1578714153263" />
     <state x="208" y="23" width="1024" height="821" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1578598949898" />
-    <state x="374" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1578647446429">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state x="320" y="171" key="Vcs.Push.Dialog.v2" timestamp="1578688194983">
+      <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state x="374" y="264" key="com.intellij.ide.util.TipDialog/0.23.1440.814@0.23.1440.814" timestamp="1578640559178" />
+    <state x="320" y="171" key="Vcs.Push.Dialog.v2/0.23.1440.822@0.23.1440.822" timestamp="1578688194983" />
+    <state x="374" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1578711580345">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="374" y="264" key="com.intellij.ide.util.TipDialog/0.23.1440.814@0.23.1440.814" timestamp="1578711580345" />
     <state x="374" y="265" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1578643770058" />
     <state x="374" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1578647446429" />
     <state x="424" y="334" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1578598335766">
@@ -285,5 +306,9 @@
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="370" y="57" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.821@0.23.1440.821" timestamp="1578600400774" />
+    <state x="97" y="36" key="new project wizard" timestamp="1578715737563">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="97" y="36" key="new project wizard/0.23.1440.814@0.23.1440.814" timestamp="1578715737563" />
   </component>
 </project>

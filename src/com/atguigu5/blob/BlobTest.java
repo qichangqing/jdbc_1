@@ -1,4 +1,4 @@
-package com.com.atguigu5.blob;
+package com.atguigu5.blob;
 
 import com.atguigu3.bean.Customer;
 import com.atguigu3.util.JDBCUtils;
@@ -21,10 +21,10 @@ public class BlobTest {
             connecton = JDBCUtils.getConnecton();
             String sql="insert into customers(name,email,birth,photo) values(?,?,?,?)";
             preparedStatement = connecton.prepareStatement(sql);
-            preparedStatement.setObject(1,"张宇豪");
-            preparedStatement.setObject(2,"zyh@126.com");
-            preparedStatement.setObject(3,"1998-01-03");
-            fileInputStream=new FileInputStream(new File("playgirl.jpg"));
+            preparedStatement.setObject(1,"袁浩");
+            preparedStatement.setObject(2,"yh@126.com");
+            preparedStatement.setObject(3,"1997-01-03");
+            fileInputStream=new FileInputStream(new File("girl.jpg"));
             preparedStatement.setBlob(4,fileInputStream);
             preparedStatement.execute();
         } catch (Exception e) {
